@@ -1,4 +1,4 @@
-### npm instll 
+### npm install 
 -- install all deps
 
 ### npm run build 
